@@ -1,0 +1,13 @@
+{
+  "short_name": "Clover Yan 的小屋",
+  "name": "Clover Yan 的小屋 - 发现 Clover Yan 的世界",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+}
